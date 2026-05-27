@@ -15,14 +15,12 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Nelson Buralli Dabes 
+- Matricula: 1649431
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+<img width="1883" height="901" alt="image" src="https://github.com/user-attachments/assets/7ef6d609-0ceb-4849-b81b-dae5f2ad254c" />
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
 
